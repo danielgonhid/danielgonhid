@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí
 
 ```yaml
-nombre: "[Tu Nombre]"
+nombre: "Daniel"
 ubicación: "Sevilla, España 🇪🇸"
 rol_principal: "Estudiante ASIR & Simracing Tech Enthusiast"
 filosofía: "Cacharrear es la mejor forma de entender cómo funciona todo bajo el capó."
