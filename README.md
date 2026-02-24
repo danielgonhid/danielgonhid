@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Daniel
+
+> 💡 **Nota:** La estructura y el diseño de este README están fuertemente inspirados en el genial perfil de [@AdrianCE94](https://github.com/AdrianCE94), tras una charla súper inspiradora que dio en mi clase de ASIR. ¡Gracias por compartir conocimiento!
 
 <div align="center">
 
@@ -93,7 +95,7 @@ Proyecto de fundamentos de hardware enfocado al nicho del simracing:
 
 </div>
 
-**Mis principios (versión Cacharreo):**
+**Mis principios:**
 
 ```python
 class AsirPhilosophy:
@@ -109,8 +111,8 @@ class AsirPhilosophy:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([ENLACE A TU LINKEDIN])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([ENLACE A TU GITHUB])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-asir/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielgonhid)
 
 </div>
 
