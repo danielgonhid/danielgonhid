@@ -79,7 +79,7 @@ Proyecto de fundamentos de hardware enfocado al nicho del simracing:
 
 | Tecnología / Concepto | Progreso | Objetivo Práctico |
 |------------|----------|----------|
-| 🐧 Linux (Intermedio) | 🟨🟨🟨⬜⬜ | Gestión de servicios y demonios |
+| 🐧 Linux (Intermedio) | 🟨🟨🟨⬜⬜ | Gestión de servicios y domonios |
 | 🌐 Cisco Routers | 🟨🟨⬜⬜⬜ | Enrutamiento de redes locales |
 | 🗄️ SQL & BBDD | 🟨🟨⬜⬜⬜ | Almacenamiento de telemetrías Simracing |
 | ⚙️ Automatización | 🟨⬜⬜⬜⬜ | Scripts para despliegues rápidos |
