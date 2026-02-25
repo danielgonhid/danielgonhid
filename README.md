@@ -69,10 +69,10 @@ Aplicando conocimientos de redes y sistemas para el simracing multijugador:
 - ✅ Caos en pista asegurado.
 
 ### ⚙️ Investigación: Periféricos y Hardware Simracing
-Proyecto de fundamentos de hardware enfocado al nicho del simracing:
+Proyecto enfocado al nicho del simracing:
 - 🏗️ Análisis de componentes para volantes y pantallas externas.
 - 🔧 Integración de software/hardware (Assetto Corsa Content Manager + SimHub).
-- 💡 Bases de soldadura e impresión 3D aplicadas a la creación de botoneras personalizadas.
+- 💡 Analisis de telemetría a traves de Python y aplicado a una base de datos.
 
 ---
 
@@ -110,7 +110,7 @@ Alonsista de manual 🏎️🇪🇸 (la 33 se aleja)
 
 $ cat /etc/interests
 - 🔧 Cacharrear con hardware, sistemas y configuraciones
-- 🏁 Dominante en NASCAR, F1 y GT3 me pasan por encima, muy poco caos
+- 🏁 Ganador en NASCAR, F1 y GT3 me pasan por encima, muy poco caos
 - ⚙️ Simracing competitivo con mi Thrustmaster T-300
 
 $ uptime
