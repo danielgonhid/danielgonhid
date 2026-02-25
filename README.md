@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Estudiante+ASIR;Simracing+Hardware+Enthusiast;SysAdmin+in+Training;Cacharreando+con+Sistemas+y+Motores)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Estudiante+ASIR;Simracing+Hardware+Enthusiast;SysAdmin+in+Training;Cacharreando+con+Sistemas+y+Assetto)](https://git.io/typing-svg)
 
 </div>
 
