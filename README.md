@@ -65,7 +65,8 @@ Aplicando conocimientos de redes y sistemas para el simracing multijugador:
 - ✅ Configuración de servidor dedicado para eventos privados.
 - ✅ Apertura y gestión de puertos (Port Forwarding), TCP/UDP.
 - ✅ Configuración de archivos del servidor (entry_list, server_cfg).
-- ✅ Gestión de ancho de banda y conexiones concurrentes de clientes.
+- ✅ Gestión de ancho de banda y conexiones concurrentes de amigos.
+- ✅ Caos en pista asegurado.
 
 ### ⚙️ Investigación: Periféricos y Hardware Simracing
 Proyecto de fundamentos de hardware enfocado al nicho del simracing:
