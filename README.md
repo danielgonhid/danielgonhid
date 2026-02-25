@@ -84,26 +84,7 @@ Proyecto de fundamentos de hardware enfocado al nicho del simracing:
 | 🗄️ SQL & BBDD | 🟨🟨⬜⬜⬜ | Almacenamiento de telemetrías Simracing |
 | ⚙️ Automatización | 🟨⬜⬜⬜⬜ | Scripts para despliegues rápidos |
 | 🌐 HTML/CSS/JS | 🟨⬜⬜⬜⬜ | Bases para desarrollo web front-end |
-
----
-
-## 🎯 Filosofía de Trabajo
-
-<div align="center">
-
-### *"Conectando el asfalto virtual con el hardware real."*
-
-</div>
-
-**Mis principios:**
-
-```python
-class AsirPhilosophy:
-    TINKER = "Si no lo has desmontado, no sabes cómo funciona"
-    DEPLOY = "Un servidor bien configurado es tan preciso como un setup de GT3"
-    AUTOMATE = "Optimiza las tareas aburridas para tener más tiempo en la pista"
-    LEARN = "Falla, revisa los logs (o la telemetría), y vuelve a intentarlo"
-```
+| 🐋 Dockers | 🟨⬜⬜⬜⬜ | Creación, despliegue y uso de dockers |
 
 ---
 
@@ -119,20 +100,20 @@ class AsirPhilosophy:
 **¿Tienes un proyecto de sistemas, o quieres correr unas vueltas?** ¡Hablemos! 🚀
 
 - 📧 **Email:** [gonzalezhidalgodaniel33@gmail.com]
-- 👾 **Discord:** `.el_d`
+
 ## 🎮 Fun Facts
 
 ```bash
 $ whoami
-Alonsista de manual 🏎️🇪🇸
+Alonsista de manual 🏎️🇪🇸 (la 33 se aleja)
 
 $ cat /etc/interests
 - 🔧 Cacharrear con hardware, sistemas y configuraciones
-- 🏁 Dominar el caos: Especialista en NASCAR y Copa Camiones (GT3 es muy ordenado)
+- 🏁 Dominante en NASCAR, F1 y GT3 me pasan por encima, muy poco caos
 - ⚙️ Simracing competitivo con mi Thrustmaster T-300
 
 $ uptime
-Operativo a base de ColaCao 🥛🍫. 
+Operativo a base de ColaCao e ilusiones de Aston Martin🥛🍫. 
 [WARNING] Si el sistema no responde, estoy en la pista o con mi señora (Xheli) 👩‍❤️‍👨🏎️
 
 $ exit
