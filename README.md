@@ -31,7 +31,7 @@ enfoque_tecnico:
   desarrollo_y_datos:
     - "Bases de Datos SQL (SQL Developer)"
     - "Lenguajes de Marcas (XML, XPath, HTML)"
-    - "Contenedores Docker (Fundamentos)"
+    - "Contenedores Docker (De momento aprendizaje propio :P)"
 ```
 
 ---
