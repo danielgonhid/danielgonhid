@@ -80,11 +80,11 @@ Proyecto enfocado al nicho del simracing:
 
 | Tecnología / Concepto | Progreso | Objetivo Práctico |
 |------------|----------|----------|
-| 🐧 Linux (Intermedio) | 🟨🟨🟨⬜⬜ | Gestión de servicios y dominios |
-| 🌐 Cisco Routers | 🟨🟨⬜⬜⬜ | Enrutamiento de redes locales |
-| 🗄️ SQL & BBDD | 🟨🟨⬜⬜⬜ | Almacenamiento de telemetrías Simracing |
+| 🐧 Linux (Intermedio) | 🟨🟨🟨🟨⬜ | Gestión de servicios y dominios |
+| 🌐 Cisco Routers | 🟨🟨🟨⬜⬜ | Enrutamiento de redes locales |
+| 🗄️ SQL & BBDD | 🟨🟨🟨🟨⬜ | Almacenamiento de telemetrías Simracing |
 | ⚙️ Automatización | 🟨⬜⬜⬜⬜ | Scripts para despliegues rápidos |
-| 🌐 HTML/CSS/JS | 🟨⬜⬜⬜⬜ | Bases para desarrollo web front-end |
+| 🌐 HTML/CSS/JS | 🟨🟨🟨⬜⬜ | Bases para desarrollo web front-end |
 | 🐋 Dockers | 🟨⬜⬜⬜⬜ | Creación, despliegue y uso de dockers |
 
 ---
