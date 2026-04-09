@@ -81,6 +81,7 @@ Proyecto enfocado al nicho del simracing:
 | Tecnología / Concepto | Progreso | Objetivo Práctico |
 |------------|----------|----------|
 | 🐧 Linux (Intermedio) | 🟨🟨🟨🟨⬜ | Gestión de servicios y dominios |
+| 📂 Active Directory | 🟨⬜⬜⬜⬜ | Creación y administración de dominios y sus recursos |
 | 🌐 Cisco Routers | 🟨🟨🟨⬜⬜ | Enrutamiento de redes locales |
 | 🗄️ SQL & BBDD | 🟨🟨🟨🟨⬜ | Almacenamiento de telemetrías Simracing |
 | ⚙️ Automatización | 🟨⬜⬜⬜⬜ | Scripts para despliegues rápidos |
