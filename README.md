@@ -100,9 +100,9 @@ Montado para carreras privadas con amigos:
 - [ ] Publicar espt-web en Cloudflare Pages con despliegue automático desde `main`
 - [ ] Primer pipeline de CI con GitHub Actions (validación del código en cada push)
 - [ ] Bases sólidas de Python como punto de partida hacia MLOps
-- [ ] Montar mi homelab con Proxmox y servicios en contenedores Docker
+- [X] Montar mi homelab con Proxmox y servicios en contenedores Docker
 - [ ] Desplegar una aplicación en un clúster local de Kubernetes
-- [ ] Monitorizar los servicios del homelab con Grafana
+- [X] Monitorizar los servicios del homelab con Grafana
 - [ ] Primera versión pública del proyecto de telemetría de karting con visión artificial
 ---
  
